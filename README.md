@@ -1,5 +1,4 @@
 # Machine_Learning_A-Z_2020
-## Instructor : Professor. Chuang-Jan-Chang
 
 This course is about Machine Learning with Python.We will try to help you understand about complex theory, algorithms and coding libraries in a simple way.
 
